@@ -1,0 +1,131 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+.first{
+    color: orange;
+    font-size: 2rem;
+}
+.first1{
+    font-size: 1.3rem;
+}
+.first2{
+font-size: 1.3rem;
+}
+.first3{
+    font-size: 1.3rem;
+}
+.second{
+    padding-top: 0.8rem;
+    font-size: 1.3rem
+}
+
+li{
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+}
+.intro{
+    text-align: center;
+}
+.fourth{
+    
+    background-color: blue ;
+    padding: 0.4rem 0.8rem;
+    font-size: 1.3rem;
+    color: aliceblue;
+    background-size: cover;  
+    border-radius: 4rem;     
+}
+.ram{
+    margin-top: 3rem;
+}
+.five{
+    margin-top: 4rem ;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: space-around;
+}
+.six {
+    padding-top: 0.6rem;
+    display: flex;
+    font-size: 0.9rem;
+    justify-content: space-around;
+}
+.seven{
+    margin-top: 4rem;
+    padding-left: 7.8rem;
+    height: 17rem;
+    padding-top: 3rem;
+    background-color: aliceblue;
+}
+
+.seven1{
+    margin-left: 4rem;
+    background-color: white;
+    height: 14rem;
+    width: 18rem;
+    border: 1px solid rgb(156, 152, 152);
+  
+}
+.seven2{
+    border-bottom: 1px solid rgb(133, 130, 130);
+    padding-top: 0.4rem;
+    font-size: 1.4rem;
+    background-color: rgb(246, 246, 243);
+    height: 1.9rem;
+    padding-left:1.5rem;
+   
+}
+.name{
+    font-size: 1.4rem;
+
+}
+.r1{
+    padding-left: 1.4rem;
+}
+.r2{
+    padding-left:1.5rem ;
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 7rem;
+    height: 1.8rem;
+    margin-left: 1.5rem;
+    border-radius: 0.2rem;
+    padding-top: 0.5rem;
+}
+.eight{
+    margin-left: 4rem;
+}
+.e2{
+
+    height: 1.5rem;
+    width: 90%;
+    padding-left: 0.5rem;
+}
+.e3{
+    height: 5rem;
+}
+.ss{
+    margin-left: 4rem;
+    height: 2rem;
+    width: 4rem;
+    background-color: blue;
+    color: white;
+    border-radius: 0.2rem;
+}
+
+
+
